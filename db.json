@@ -1,5 +1,5 @@
 {
-   "album_1": {
+   "album": {
       "id": 1,
       "imageUrl": "https://res.cloudinary.com/dognkye6x/image/upload/v1695386211/IMG_4847_zomx8h.jpg",
       "title": "Fotos Snowboarding",
@@ -17,7 +17,7 @@
          "https://res.cloudinary.com/dognkye6x/image/upload/v1695386143/oaks-shore-29_i7bai2.jpg"
       ]
    },
-   "album_2": {
+   "album": {
       "id": 2,
       "imageUrl": "https://res.cloudinary.com/dognkye6x/image/upload/v1691336468/_MG_4958_qtyhx0.jpg",
       "title": "Fotos Estádio",
@@ -35,7 +35,7 @@
          "https://res.cloudinary.com/dognkye6x/image/upload/v1684164789/IMG_1455_vg0bgq.png"
       ]
    },
-   "album_3": {
+   "album": {
       "id": 3,
       "imageUrl": "https://res.cloudinary.com/dognkye6x/image/upload/v1695431057/IMG_7721_oh8xmn.jpg",
       "title": "South Island, NZ",
