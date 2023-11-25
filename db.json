@@ -1,5 +1,6 @@
 {
    "fotos_snowboarding": {
+      "id": 1,
       "imageUrl": "https://res.cloudinary.com/dognkye6x/image/upload/v1695386211/IMG_4847_zomx8h.jpg",
       "title": "Fotos Snowboarding",
       "description": "Fotos tiradas por Dan Costa em Queenstown, NZ.",
@@ -17,6 +18,7 @@
       ]
    },
    "fotos_Stadium": {
+      "id": 2,
       "imageUrl": "https://res.cloudinary.com/dognkye6x/image/upload/v1691336468/_MG_4958_qtyhx0.jpg",
       "title": "Fotos Estádio",
       "description": "Fotos tiradas por Dan Costa em Estádios de Futebol.",
@@ -34,6 +36,7 @@
       ]
    },
    "fotos_Blue_Pools": {
+      "id": 3,
       "imageUrl": "https://res.cloudinary.com/dognkye6x/image/upload/v1695431057/IMG_7721_oh8xmn.jpg",
       "title": "South Island, NZ",
       "description": "Fotos tiradas por Dan Costa no sul da NZ.",
